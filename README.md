@@ -1,7 +1,7 @@
 # Real-Time Edge Detection System: Nexys A7 FPGA
 ![Example Output](docs/cam_live_output.jpg)
 
-
+Demo Video: https://youtu.be/IrR_reDD51M
 ## Project Overview
 
 This project implements a high-performance, real-time computer vision pipeline on a Xilinx Artix-7 FPGA. The system captures live video from an OV7670 camera, performs spatial gradient calculations using a custom Sobel filter, and outputs the result via VGA at 640x480 resolution.
