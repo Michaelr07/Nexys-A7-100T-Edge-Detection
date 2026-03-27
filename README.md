@@ -1,5 +1,5 @@
 # Real-Time Edge Detection System: Nexys A7 FPGA
-docs/cam_live_output.jpg
+(docs/cam_live_output.jpg)
 
 
 ## Project Overview
