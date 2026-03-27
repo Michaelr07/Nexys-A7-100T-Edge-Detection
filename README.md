@@ -18,7 +18,7 @@ The architecture is centered around a "greedy" downstream pipeline that prioriti
   * **Video Output Bridge:** The `v_axi4s_vid_out` IP bridges the AXI domain to the physical VGA pins, using an internal asynchronous FIFO to handle the clock domain crossing from the 100 MHz AXI clock to the 25.2 MHz VGA pixel clock.
 
 
-![Block Diagram](docs/block_diagram.pdf)
+![Block Diagram](docs/block_diagram.png)
 
 
 ## Key Engineering Challenges Conquered
