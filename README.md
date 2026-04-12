@@ -21,7 +21,7 @@ The architecture is centered around a "greedy" downstream pipeline that prioriti
 ![Block Diagram](docs/block_diagram.png)
 
 
-## Key Engineering Challenges Conquered
+## Engineering Challenges
 
 ### 1\. The AXI-Stream Width Mismatch
 
